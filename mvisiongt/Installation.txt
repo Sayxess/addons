@@ -1,0 +1,21 @@
+Installation:
+
+
+STEP 1
+
+ADD a new folder "mvisiongt" to GTA V > mods > update > x64 > dlcpacks and drop the dlc.rpf located in 
+the download into the folder.
+
+
+
+STEP 2
+
+
+
+ADD  -    <item>dlcpacks:\mvisiongt\</item>
+to the end of the dlc list located GTA V > mods > update > update.rpf > common > data
+
+
+
+
+SPAWN NAME -  "mvisiongt"
